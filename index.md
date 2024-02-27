@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  ## Wen Fanyu CV
+## Wen Fanyu CV
 
 ##### 文梵羽
 
@@ -8,8 +8,9 @@
 
 [linkedin](https://www.linkedin.com/in/fanyu-wen-176b14289/)
 
- </div>
-
+</div>
+ 
+<div align="left"> 
 ### education
 #### National University of Singapore	<div align="right"> Expected May 2027 </div>
 
@@ -39,6 +40,8 @@
 - Second Prize in the National Olympiad in Informatics (Advanced Level) <div align="right">Dec 2018</div>
 - Third Prize in 37th National Olympiad in Mathematics (Provincial Level) <div align="right">Oct 2021</div>
 - First Prize in the National Olympiad in Informatics (Entry Level) <div align="right">Dec 2018</div>
+
+</div>
 
 
 
